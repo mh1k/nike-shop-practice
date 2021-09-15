@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.f-f-style{
+    font-family: 'Bebas Neue', cursive;
+}
+
+ul li{
+    margin-left: 3rem;
+}
+
+.h-title{
+    font-size: 5rem;
+    font-weight: 700;
+    font-family: 'Bebas Neue';
+}
+.orange{
+    color: #FA804C;
+}
+.button-width{
+    width: 1.5rem;
+    height: 1.5rem;
+
+}
